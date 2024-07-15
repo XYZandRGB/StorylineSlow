@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_66UfhCy8gTu_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Intro Parametric Design (Slow)</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Intro_Parametric_Design_(Slow)_ORG">
+    <organization identifier="Intro_Parametric_Design_(Slow)_ORG">
+      <title>Intro Parametric Design (Slow)</title>
+      <item identifier="Parametric_Intro_SCO" isvisible="true" identifierref="__66UfhCy8gTu_course_id_RES">
+        <title>Intro Parametric Design (Slow)</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__66UfhCy8gTu_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/video_5rFrMvuUZe1_22_56_1280x720.mp4" />
+      <file href="mobile/poster_5x3jF4GZx8E_video_5rFrMvuUZe1_22_56_1280x720.jpg" />
+      <file href="story_content/6TiFWEi6L4g_44100_56_1.mp3" />
+      <file href="story_content/6jlLsEq2eTR_44100_56_1.mp3" />
+      <file href="story_content/653eTYIFWsu_44100_56_1.mp3" />
+      <file href="story_content/6qvSbRAupBd_44100_56_1.mp3" />
+      <file href="mobile/6LlBuHIkFTi.png" />
+      <file href="mobile/6oMPRWULkZ5.jpg" />
+      <file href="mobile/6hoEF7oppeX.png" />
+      <file href="mobile/6Lxu4ncmIFO.png" />
+      <file href="story_content/5ywWQQxKDGB_44100_56_1.mp3" />
+      <file href="story_content/video_5WqABcsJ2Ee_22_56_406x720.mp4" />
+      <file href="mobile/poster_6DNVl1ybFnB_video_5WqABcsJ2Ee_22_56_406x720.jpg" />
+      <file href="story_content/6HXx22z91r3.js" />
+      <file href="story_content/66uNxgqkOFn.js" />
+      <file href="story_content/6UV3CqFQdEz.js" />
+      <file href="story_content/627Kz3VDOBD_44100_56_1.mp3" />
+      <file href="story_content/5e1EBZ18yMx_44100_56_1.mp3" />
+      <file href="story_content/5lNHUQry7SN.js" />
+      <file href="story_content/5mscsNWUhx5.js" />
+      <file href="story_content/5hYGmpnpegy.js" />
+      <file href="story_content/5qn2WRs6JtG_44100_56_1.mp3" />
+      <file href="story_content/6bB0LVRQM2f_44100_56_1.mp3" />
+      <file href="story_content/6epjGLsSdWX.js" />
+      <file href="story_content/6eibB6I7ZEf.js" />
+      <file href="story_content/6ATBqm3Upzo.js" />
+      <file href="story_content/68GlbSQysoo_44100_56_1.mp3" />
+      <file href="story_content/6hDNFSCTb9v_44100_56_1.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape5geptnTvjE4.png" />
+      <file href="mobile/txt__default_6Q8FBoK9Zcn.png" />
+      <file href="mobile/Shape6gfnkAOXJDH.png" />
+      <file href="mobile/txt__default_5WEqkZjSUrj.png" />
+      <file href="mobile/Shape5jNl3pazO9J.png" />
+      <file href="mobile/txt__default_6abNq2bEijc.png" />
+      <file href="mobile/Shape5e7vXvAuBcw.png" />
+      <file href="mobile/txt__default_6LRjtNVh5em.png" />
+      <file href="mobile/Shape6qZljHS9jir.png" />
+      <file href="mobile/txt__default_6949PRMcFYj.png" />
+      <file href="mobile/Shape5vQscOibehq.png" />
+      <file href="mobile/txt__default_6rRI5DVPk4c.png" />
+      <file href="mobile/Shape6hZYjRpyBXv.png" />
+      <file href="mobile/txt__default_5tXCDa4m5qT.png" />
+      <file href="mobile/Shape5bAy16xUYZk.png" />
+      <file href="mobile/txt__default_5Yap1tkXYnN.png" />
+      <file href="mobile/Shape5o3NypkwnhE.png" />
+      <file href="mobile/txt__default_6WzrWYHL2pS.png" />
+      <file href="mobile/Shape5VGq08Ab17W.png" />
+      <file href="mobile/txt__default_695GXdcKobe.png" />
+      <file href="mobile/txt__default_6l61RLINmOH.png" />
+      <file href="mobile/txt__default_6hBrU0WbSEL.png" />
+      <file href="mobile/txt__default_6WmOWcJjYsH.png" />
+      <file href="mobile/txt__default_6pasooDjag3.png" />
+      <file href="mobile/txt__default_6k1spttQn4Y.png" />
+      <file href="mobile/txt__default_6T9lGpeXGM9.png" />
+      <file href="mobile/txt__default_5bIa7vyYV64.png" />
+      <file href="mobile/txt__default_5hmQ2CwLcXL.png" />
+      <file href="mobile/txt__default_5idGGGuuNqJ.png" />
+      <file href="mobile/txt__default_5vXISKcfiV9.png" />
+      <file href="mobile/txt__default_6Fh4XAV3mdc.png" />
+      <file href="mobile/txt__default_6jqJXwlWsSo.png" />
+      <file href="mobile/txt__default_5g2NeQlEIPv.png" />
+      <file href="mobile/txt__default_5rbK3Mwaqmg.png" />
+      <file href="mobile/txt__default_5m6LD7OMHO2.png" />
+      <file href="mobile/txt__default_6d5a4GmR4jI.png" />
+      <file href="mobile/txt__default_5liHavhLhXL.png" />
+      <file href="mobile/txt__default_61KCmMFs7dx.png" />
+      <file href="mobile/txt__default_6VKPvg3Nzhh.png" />
+      <file href="mobile/txt__default_6L53oGIn5TY.png" />
+      <file href="mobile/txt__default_6fdNyqna4H8.png" />
+      <file href="mobile/txt__default_68f21T39CGs.png" />
+      <file href="mobile/txt__default_6Uy9KMaysdG.png" />
+      <file href="mobile/txt__default_68ixel4NR0T.png" />
+      <file href="mobile/txt__default_6L4ryyc2B0t.png" />
+      <file href="mobile/txt__default_6CL8pODaNJK.png" />
+      <file href="mobile/Shape69ZjgOHIdsB.png" />
+      <file href="mobile/Shape63MgQyvVR5p.png" />
+      <file href="mobile/Shape6MwuSatoofS.png" />
+      <file href="mobile/txt__default_64VaZuykcou.png" />
+      <file href="mobile/txt__default_6UtvrWjs3VG.png" />
+      <file href="mobile/txt__default_6RjNTP88ddp.png" />
+      <file href="mobile/txt__default_6drvdPUX8di.png" />
+      <file href="mobile/txt__default_6eBncm3wrVN.png" />
+      <file href="mobile/txt__default_5nnj1DjPtLM.png" />
+      <file href="mobile/txt__default_6ODwRoRW1S3.png" />
+      <file href="mobile/txt__default_6CShwPZ9EG8.png" />
+      <file href="mobile/txt__default_5iljbnkNfjx.png" />
+      <file href="mobile/txt__default_5Zd28zI5DNx.png" />
+      <file href="mobile/txt__default_5av7R6drA4e.png" />
+      <file href="mobile/txt__default_68kVSfDpsDu.png" />
+      <file href="mobile/txt__default_5jQhIlDillB.png" />
+      <file href="mobile/txt__default_6mKYlQyqetJ.png" />
+      <file href="mobile/txt__default_5VuOi8r78dk.png" />
+      <file href="mobile/txt__default_6DwbAs050o4.png" />
+      <file href="mobile/txt__default_6drG7YbKluF.png" />
+      <file href="mobile/txt__default_6ARSjnZl6Al.png" />
+      <file href="mobile/txt__default_5mwy0dxZZDe.png" />
+      <file href="mobile/txt__default_6YXrRwEmnho.png" />
+      <file href="mobile/txt__default_6MrtrhamQa0.png" />
+      <file href="mobile/txt__default_5tBPRx3GWRs.png" />
+      <file href="mobile/txt__default_6hKjP7s6Etb.png" />
+      <file href="mobile/txt__default_6mjrROFmnwF.png" />
+      <file href="mobile/txt__default_6YO7lLXDiOX.png" />
+      <file href="mobile/txt__default_6ZD58aQuF2P.png" />
+      <file href="mobile/txt__default_6GBM6DTeQjc.png" />
+      <file href="mobile/txt__default_6eTQbHrrfPI.png" />
+      <file href="mobile/txt__default_60zVCI5q0er.png" />
+      <file href="mobile/txt__default_660KZyPEq9n.png" />
+      <file href="mobile/txt__default_5jlLe3Mvbtz.png" />
+      <file href="mobile/txt__default_6ZEPYEyWjMs.png" />
+      <file href="mobile/txt__default_6hBCgRUYzVq.png" />
+      <file href="mobile/txt__default_5qoTLqDnEsW.png" />
+      <file href="mobile/txt__default_6FUpvcZldXj.png" />
+      <file href="mobile/txt__default_6jiea2Qv6Ki.png" />
+      <file href="mobile/txt__default_5f32G2A95JK.png" />
+      <file href="mobile/txt__default_6TP52y3XGnb.png" />
+      <file href="mobile/txt__default_6mH1Ki82zW5.png" />
+      <file href="mobile/txt__default_6rDLADV6WgC.png" />
+      <file href="mobile/txt__default_5WtP8VO7kHi.png" />
+      <file href="mobile/txt__default_6e3Gphl2LJY.png" />
+      <file href="mobile/txt__default_6GxaDA1ANpl.png" />
+      <file href="mobile/txt__default_5lkRvMJi3pQ.png" />
+      <file href="mobile/txt__default_5d8tuGob5Jo.png" />
+      <file href="mobile/txt__default_5qzNoYJDtel.png" />
+      <file href="mobile/txt__default_6adniT9uIOM.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5evTDwVKHoC.js" />
+      <file href="html5/data/js/5hSea9YgISG.js" />
+      <file href="html5/data/js/5qjlZNv9yuw.js" />
+      <file href="html5/data/js/5uBSqlXAjGa.js" />
+      <file href="html5/data/js/663GveBhe68.js" />
+      <file href="html5/data/js/67Moi3qCZLF.js" />
+      <file href="html5/data/js/696Iv4mzRjc.js" />
+      <file href="html5/data/js/6FmBSbOyTRv.js" />
+      <file href="html5/data/js/6oqIiHLEdCN.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
